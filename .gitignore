@@ -1,0 +1,7 @@
+modules/__pycache__
+__pycache__
+# Python file to generate usernames (testing purposes)
+generate.py
+
+# Used to check if files are empty and stuff
+prepare for commit.py
